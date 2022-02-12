@@ -1,2 +1,2 @@
 # Python-Classes-
-All codes learned from Phyton for Finance and Data Analysis
+All codes learned from PytHon for Finance and Data Analysis
